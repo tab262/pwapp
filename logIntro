@@ -1,0 +1,1 @@
+Welcome to the Password Manager Program. This program allows you to store and retrieve passwords. Passwords are encrypted using a special key, or master password, that must be EXACTLY 16 characters long (for this version at least). To retrieve a password, you must enter the same key used to encrypt the original password. Scroll down for log.
